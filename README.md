@@ -50,6 +50,6 @@ To run tests, use the following command:
 php artisan test
 ```
 
-#Using Ai Tool
-Using Github Copilot and chatgpt 
+## Using Ai Tool
+Used Github Copilot and chatgpt 
 
